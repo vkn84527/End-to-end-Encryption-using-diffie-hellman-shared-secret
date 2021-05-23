@@ -24,6 +24,8 @@ npm install
 npm start
 ```
 
+## [Resource_Video](https://www.youtube.com/watch?v=TzOFFV1beTw&list=PLdHg5T0SNpN1tiBngH_pjn5vcmgHgHHjY&index=4&ab_channel=yoursTRULYyoursTRULY)
+
 ## Authors
 
 - [**Vikas Kumar**](https://vkn84527.github.io/Portfolio/)
